@@ -27,6 +27,10 @@ h1 {
 	-moz-transition: background 0.5s;
 }
 
+.square:hover {
+	cursor: pointer;
+}
+
 #container {
 	margin: 20px auto;
 	max-width: 600px;
